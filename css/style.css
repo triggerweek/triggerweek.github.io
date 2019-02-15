@@ -37,6 +37,14 @@ strong {
     z-index: 105;
     font-size: 0.8em;
 }
+.social-nav {
+    display: block;
+    position: absolute;
+    z-index: 105;
+    -webkit-user-select: none;
+    user-select: none;
+    font-size: 100px;
+}
 .hamburger-menu {
     display: block;
     position: relative;
