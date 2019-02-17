@@ -4,3 +4,8 @@ body{font-family:'LatoLatinWeb',Avenir,HelveticaNeue-Light,"Helvetica Neue Light
     display: flex;
     align-items: center;
 }
+
+.nav-tagline {
+    font-size: 0.5em;
+    color: rgba(0, 0, 0, 0.726);
+}
